@@ -1,4 +1,4 @@
-console.log('Hello World!!👋')
+Hello World!!👋
  
 
 I am a Web developer with experience in Coding solutions, I have created applications using; React.js, Python, HTML, CSS, Ajax, Bootstrap, JavaScript, MySQL and others. 
