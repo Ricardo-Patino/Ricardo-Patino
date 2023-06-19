@@ -8,7 +8,7 @@ You can follow me on the next sites/platforms where there is techy stuff and mus
 <li> 👷Personal Project : <a href="https://rickpatinor.wixsite.com/hotelvillagrace">Hotel Villa Grace Web</a></li> 
  <li> 📫 Contact - <a href="rickpatinor@gmail.com">Email</a>  </li> 
 <li> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[https://www.youtube.com/channel/UCvx1L_--KHipWktvCwQAo7g" height="30](https://www.youtube.com/channel/UCvx1L_--KHipWktvCwQAo7g)" width="40" style="max-width: 100%;">YouTube</a></li>
- <li>https://www.youtube.com/channel/UCvx1L_--KHipWktvCwQAo7g</li>
+<li><a href="https://www.youtube.com/channel/UCvx1L_--KHipWktvCwQAo7g" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ricardo-Patino" height="30" width="40" style="max-width: 100%;">YouTube</a></li>
 <li><a href="https://www.linkedin.com/in/ricardopatino1/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ricardo-Patino" height="30" width="40" style="max-width: 100%;">LinkedIn</a></li> 
 </ul>
 <!--
