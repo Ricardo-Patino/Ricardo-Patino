@@ -9,8 +9,7 @@ You can follow me on the next sites/platforms where there is techy stuff and mus
 <li><a href="https://www.youtube.com/channel/UCvx1L_--KHipWktvCwQAo7g" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ricardo-Patino" height="30" width="40" style="max-width: 100%;">YouTube</a></li>
 <li><a href="https://www.linkedin.com/in/ricardopatino1/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ricardo-Patino" height="20" width="30" style="max-width: 100%;">LinkedIn</a></li> 
 </ul>
-<!--
-**Ricardo-Patino/Ricardo-Patino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Ricardo-Patino/Ricardo-Patino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
