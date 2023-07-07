@@ -3,6 +3,7 @@ Hello World!!👋
 I am a Web developer with experience in Coding solutions, I have created applications using; React.js, Python, HTML, CSS, Ajax, Bootstrap, JavaScript, MySQL, and others.
 
 You can follow me on the next sites/platforms where there is techy stuff and music since I am a drummer! 
+<br>
 <ul> 
 <li> 👷Personal Project : <a href="https://rickpatinor.wixsite.com/hotelvillagrace">Hotel Villa Grace Web</a></li> 
  <li> 📫 Contact - <a href="mailto:rickpatinor@gmail.com">Send email</a>  </li> 
