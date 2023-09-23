@@ -1,6 +1,7 @@
 Hello World!!👋
 <br>
 <br>
+<br>
 I am a Web developer with experience in Coding solutions, I have created applications using; React.js, Python, HTML, CSS, Ajax, Bootstrap, JavaScript, MySQL, and others.
 <br>
 You can follow me on the next sites/platforms where there is techy stuff and music since I am a drummer! 
