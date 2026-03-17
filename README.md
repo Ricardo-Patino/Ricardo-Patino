@@ -17,6 +17,13 @@ You can follow me on the next sites/platforms where there you will find techy st
 ### Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=%20Ricardo-Patino&theme=dark)](https://git.io/streak-stats)
+
+
+### Ststs
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo-Patino)](https://github.com/Ricardo-Patino/github-readme-stats)
+
+
 <!-- **Ricardo-Patino/Ricardo-Patino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
