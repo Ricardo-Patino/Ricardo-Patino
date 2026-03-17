@@ -21,6 +21,7 @@ You can follow me on the next sites/platforms where there you will find techy st
 ### Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo-Patino)](https://github.com/Ricardo-Patino/github-readme-stats)
+<br>
 **[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Patino&layout=compact)](https://github.com/Ricardo-Patino/github-readme-stats)**
 
 <!-- **Ricardo-Patino/Ricardo-Patino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
