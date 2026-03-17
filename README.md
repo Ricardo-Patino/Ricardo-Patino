@@ -6,8 +6,9 @@ You can follow me on the next sites/platforms where there you will find techy st
 <br>
 <br>
 <ul> 
-<li> 👷Personal Project : <a href="https://rickpatinor.wixsite.com/hotelvillagrace">CMS: Hotel Villa Grace Web</a></li> 
- <a href="https://www.hotelvillagrace.com">Web: Hotel Villa Grace Web</a></li> 
+<li> 👷Personal Project : 
+ - <a href="https://rickpatinor.wixsite.com/hotelvillagrace">CMS: Hotel Villa Grace Web</a></li> 
+ - <a href="https://www.hotelvillagrace.com">Web: Hotel Villa Grace Web</a></li> 
  <li> 📫 Contact - <a href="mailto:rickpatinor@gmail.com">Send email</a>  </li> 
 <li><a href="https://www.youtube.com/channel/UCvx1L_--KHipWktvCwQAo7g" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ricardo-Patino" height="30" width="40" style="max-width: 100%;">YouTube</a></li>
 <li><a href="https://www.linkedin.com/in/ricardopatino1/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ricardo-Patino" height="20" width="30" style="max-width: 100%;">LinkedIn</a></li>
