@@ -6,7 +6,7 @@ You can follow me on the next sites/platforms where there you will find techy st
 <br>
 <br>
 <ul> 
-<li> 👷Personal Project : 
+<li> 👷Personal Project : <br>
  - <a href="https://rickpatinor.wixsite.com/hotelvillagrace">CMS: Hotel Villa Grace Web</a></li> 
  - <a href="https://www.hotelvillagrace.com">Web: Hotel Villa Grace Web</a></li> 
  <li> 📫 Contact - <a href="mailto:rickpatinor@gmail.com">Send email</a>  </li> 
