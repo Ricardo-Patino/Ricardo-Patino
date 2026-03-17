@@ -16,6 +16,7 @@ You can follow me on the next sites/platforms where there you will find techy st
 ### Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=%20Ricardo-Patino&theme=dark)](https://git.io/streak-stats)
+**[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Patino&layout=compact)](https://github.com/Ricardo-Patino/github-readme-stats)**
 
 
 ### Stats
