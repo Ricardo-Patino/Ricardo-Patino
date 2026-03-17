@@ -1,7 +1,6 @@
 ## Hello World!!👋
 <br>
 <br>
-<br>
 I am a Web developer with experience in Coding solutions, I have created applications using; React.js, Python, HTML, CSS, Ajax, Bootstrap, JavaScript, MySQL, and others.
 <br><br>
 You can follow me on the next sites/platforms where there you will find techy stuff and music since I am a drummer! 
@@ -14,6 +13,10 @@ You can follow me on the next sites/platforms where there you will find techy st
  <li><a href="https://spanish-web-portfolio-html-css-js.netlify.app/">Portafolio - Spanish</a></li> 
  <li><a href="https://portfolio-ricardopatino.netlify.app/">Portfolio - English</a></li>
 </ul>
+
+### Github Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=%20Ricardo-Patino&theme=dark)](https://git.io/streak-stats)
 <!-- **Ricardo-Patino/Ricardo-Patino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
