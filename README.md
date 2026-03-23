@@ -13,7 +13,7 @@ You can follow me on the next sites/platforms where there you will find techy st
  
 <li>Here I have some cool videos, take a look!<a href="https://www.youtube.com/channel/UCvx1L_--KHipWktvCwQAo7g" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ricardo-Patino" height="30" width="40" style="max-width: 100%;">YouTube</a></li>
 <li>Here is a more profesional look!<a href="https://www.linkedin.com/in/ricardopatino1/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ricardo-Patino" height="20" width="30" style="max-width: 100%;">LinkedIn</a></li>
- <li><a href="https://ricardopatino.blog>Portfolio/">Portfolio - English</a></li>
+ <li>Please take a loook of my pwersonal website<a href="[https://ricardopatino.blog>Portfolio/](https://ricardopatino.blog)"></a></li>
 <li> 📫 Contact - <a href="mailto:rickpatinor@gmail.com">Lets Talk, Send me an email</a>  </li>
 </ul>
 
