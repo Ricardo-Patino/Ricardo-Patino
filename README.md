@@ -24,7 +24,7 @@ I'm always open to connecting, collaborating, and building something meaningful.
 <li> 📫 Contact - <a href="mailto:rickpatinor@gmail.com">Lets Talk, Send me an email</a>  </li>
 </ul>
 
-### Github Stats
+## Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=%20Ricardo-Patino&theme=dark)](https://git.io/streak-stats)
 
