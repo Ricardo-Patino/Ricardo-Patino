@@ -1,19 +1,24 @@
-## Hi there, I am Ricardo!!👋
-<br>
-Thanks for being here, I am a Web developer with experience in Coding solutions, I have created applications using; React.js, Python, HTML, CSS, Ajax, Bootstrap, JavaScript, MySQL, and others.
-<br><br>
-You can follow me on the next sites/platforms where there you will find techy stuff and music since I am a drummer! 
-<br>
-<br>
-<ul> 
-<li> 👷Personal Project : <br>
+# Hi, I'm Ricardo 👋
+
+**Web Developer | Creative Builder | Problem Solver**
+
+I create modern web solutions with technologies like **React.js, Python, JavaScript, HTML, CSS, Bootstrap, AJAX, and MySQL**.
+
+My work blends **code, creativity, and practical problem-solving**. On this profile, you'll find web projects, technical ideas, and a bit of music too — because I'm also a drummer.
+
+## Featured Project
+- **Hotel Villa Grace Web** — Web platform and CMS project
  - <a href="https://rickpatinor.wixsite.com/hotelvillagrace">CMS: Hotel Villa Grace Web</a></li> 
  - <a href="https://www.hotelvillagrace.com">Web: Hotel Villa Grace Web</a></li> <br>
  <br>
- 
-<li>Here I have some cool videos, take a look!<a href="https://www.youtube.com/channel/UCvx1L_--KHipWktvCwQAo7g" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ricardo-Patino" height="30" width="40" style="max-width: 100%;">YouTube</a></li>
-<li>Here is a more profesional look!<a href="https://www.linkedin.com/in/ricardopatino1/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ricardo-Patino" height="20" width="30" style="max-width: 100%;">LinkedIn</a></li>
- <li>Please take a loook of my pwersonal website: <a href="https://ricardopatino.blog">ricardopatino.blog</li>
+<li> #Find me here
+<li><a href="https://www.youtube.com/channel/UCvx1L_--KHipWktvCwQAo7g" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ricardo-Patino" height="30" width="40" style="max-width: 100%;">YouTube</a>Tech and creative content</li>
+<li><a href="https://www.linkedin.com/in/ricardopatino1/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ricardo-Patino" height="20" width="30" style="max-width: 100%;">LinkedIn - professional experience and background </a></li>
+ <li>My website: <a href="https://ricardopatino.blog">ricardopatino.blog</li>
+ <br>
+  <br>
+  ## Let's Talk
+I'm always open to connecting, collaborating, and building something meaningful.
 <li> 📫 Contact - <a href="mailto:rickpatinor@gmail.com">Lets Talk, Send me an email</a>  </li>
 </ul>
 
