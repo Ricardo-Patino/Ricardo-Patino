@@ -1,6 +1,6 @@
 ## Hi there, I am Ricardo!!👋
 <br>
-thabks for being here, I am a Web developer with experience in Coding solutions, I have created applications using; React.js, Python, HTML, CSS, Ajax, Bootstrap, JavaScript, MySQL, and others.
+Thanks for being here, I am a Web developer with experience in Coding solutions, I have created applications using; React.js, Python, HTML, CSS, Ajax, Bootstrap, JavaScript, MySQL, and others.
 <br><br>
 You can follow me on the next sites/platforms where there you will find techy stuff and music since I am a drummer! 
 <br>
