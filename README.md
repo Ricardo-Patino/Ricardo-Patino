@@ -18,7 +18,6 @@ My work blends **code, creativity, and practical problem-solving**. On this prof
  <li>🌐 My website: <a href="https://ricardopatino.blog">ricardopatino.blog</li>
  <br>
  <br>
-  
 ## Let's Talk
 I'm always open to connecting, collaborating, and building something meaningful.
 <li> 📫 Contact - <a href="mailto:rickpatinor@gmail.com">Lets Talk, Send me an email</a>  </li>
