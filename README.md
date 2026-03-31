@@ -28,7 +28,7 @@ I'm always open to connecting, collaborating, and building something meaningful.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=%20Ricardo-Patino&theme=dark)](https://git.io/streak-stats)
 
-
+<!--
 ### Stats
 **[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Patino&layout=compact)](https://github.com/Ricardo-Patino/github-readme-stats)**
 <br>
@@ -36,7 +36,7 @@ I'm always open to connecting, collaborating, and building something meaningful.
 
 
 
-<!-- **Ricardo-Patino/Ricardo-Patino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Ricardo-Patino/Ricardo-Patino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
  <li><a href="https://spanish-web-portfolio-html-css-js.netlify.app/">Portafolio - Spanish</a></li> 
  <li><a href="https://portfolio-ricardopatino.netlify.app/">Portfolio - English</a></li>
