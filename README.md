@@ -1,4 +1,4 @@
-# Hi, I'm Ricardo 👋
+# Hi, I'm Ricardo, Welcome!
 
 **Web Developer | Creative Builder | Problem Solver**
 
