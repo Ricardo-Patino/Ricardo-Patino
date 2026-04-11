@@ -18,7 +18,6 @@ My work blends **code, creativity, and practical problem-solving**. On this prof
 <li><a href="https://www.linkedin.com/in/ricardopatino1/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ricardo-Patino" height="20" width="30" style="max-width: 100%;"> LinkedIn</a> <br>- Professional experience and background</li>
  
  <br>
- <br>
   
 ## Let´s Talk
 I'm always open to connecting, collaborating, and building something meaningful.
