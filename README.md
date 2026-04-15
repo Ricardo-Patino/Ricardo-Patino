@@ -14,7 +14,7 @@ My work blends **code, creativity, and practical problem-solving**. On this prof
  
 ## Find me Here
 <li>🌐<a href="https://ricardopatino.blog">ricardopatino.blog</a>: My website</li>
-<li><img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/093f5cbe-2559-4301-90e1-6d78587a792b" />
+<li><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/093f5cbe-2559-4301-90e1-6d78587a792b" />
 <a href="https://www.youtube.com/channel/UCvx1L_--KHipWktvCwQAo7g" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ricardo-Patino" height="30" width="40" style="max-width: 100%;">YouTube</a>: Tech and creative content</li>
 <li><a href="https://www.linkedin.com/in/ricardopatino1/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ricardo-Patino" height="20" width="30" style="max-width: 100%;"> LinkedIn</a>: Professional experience and background</li>
  
