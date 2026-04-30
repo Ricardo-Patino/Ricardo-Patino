@@ -15,8 +15,7 @@ My work blends **code, creativity, and practical problem-solving**. On this prof
 ## Find me Here
 <li>🌐<a href="https://ricardopatino.netlify.app"> https://ricardopatino.netlify.app </a>: My website</li>
 
-<li><img width="16" height="16" alt="youtube" src="https://github.com/user-attachments/assets/cd33a591-b7ef-48ef-8f60-c8f99387b79b" />
-<a href="https://www.youtube.com/channel/UCvx1L_--KHipWktvCwQAo7g" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ricardo-Patino" height="15" width="15" style="max-width: 100%;"> YouTube</a>: Tech and creative content</li>
+<li><a href="https://www.youtube.com/channel/UCvx1L_--KHipWktvCwQAo7g" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ricardo-Patino" height="15" width="15" style="max-width: 10%;"> YouTube</a>: Tech and creative content</li>
 
 <li><a href="https://www.linkedin.com/in/ricardopatino1/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ricardo-Patino" height="15" width="15" style="max-width: 100%;"> LinkedIn</a>: Professional experience and background</li>
  
