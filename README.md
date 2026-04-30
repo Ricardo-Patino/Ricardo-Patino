@@ -18,13 +18,13 @@ I am a Cisco Networking and Programming Engineer with over 15 years of experienc
 <li>🌐<a href="https://ricardopatino.netlify.app">My website </a> </li>
 
 <li><a href="https://www.youtube.com/channel/UCvx1L_--KHipWktvCwQAo7g">
-    <img src="https://github.com/user-attachments/assets/07f02220-55a2-403a-9591-49dd89299833" width="20"/> 
+    <img src="https://github.com/user-attachments/assets/07f02220-55a2-403a-9591-49dd89299833" width="10"/> 
     <strong> My YouTube</strong> – Tech & Creative Content
   </a></li>
 
 <li>
   <a href="https://www.linkedin.com/in/ricardopatino1/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20"/> 
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="10"/> 
     <strong> LinkedIn</strong> – Professional Experience & Background
   </a>
 </li>
