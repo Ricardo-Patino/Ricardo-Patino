@@ -6,6 +6,8 @@ I create modern web solutions with technologies like **React.js, Python, JavaScr
 
 My work blends **code, creativity, and practical problem-solving**. On this profile, you'll find web projects, technical ideas, and a bit of music too — because I'm also a drummer.
 
+I am a Cisco Networking and Programming Engineer with over 15 years of experience in the technology sector, integrating advanced knowledge in networking, IT support, and software development. I currently work as a Renewal Engineer at OCP TECH, managing contracts, licensing, and subscriptions for corporate clients, ensuring operational continuity and resource optimization.
+
 ## Featured Project
 - **Hotel Villa Grace Web** — Web platform and CMS project
  - <a href="https://rickpatinor.wixsite.com/hotelvillagrace">CMS: Hotel Villa Grace Web</a></li> 
